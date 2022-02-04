@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rNqnBvo7d/P+b5GOaIIKJPRCigE756OVJmBL+hcWn4ETuas6vcelG6PtT6O92XCQEL19YTSCpYSs9dtwvl96vA==",
+  "dgSpecHash": "/iNFIABfiwAiwLA++XppUmMFB2rtXmpztbeUChEQ4tH14CcOa0u34FFJVnYEbwseAneK2w8oEM7m4PS7HjF3ZA==",
   "success": true,
-  "projectFilePath": "C:\\Demo\\HelloAzureApp\\HelloAzureApp\\HelloAzureApp.csproj",
+  "projectFilePath": "c:\\Demo\\HelloAzureApp\\HelloAzureApp\\HelloAzureApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

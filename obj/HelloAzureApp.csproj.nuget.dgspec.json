@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Demo\\HelloAzureApp\\HelloAzureApp\\HelloAzureApp.csproj": {}
+    "c:\\Demo\\HelloAzureApp\\HelloAzureApp\\HelloAzureApp.csproj": {}
   },
   "projects": {
-    "C:\\Demo\\HelloAzureApp\\HelloAzureApp\\HelloAzureApp.csproj": {
+    "c:\\Demo\\HelloAzureApp\\HelloAzureApp\\HelloAzureApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Demo\\HelloAzureApp\\HelloAzureApp\\HelloAzureApp.csproj",
+        "projectUniqueName": "c:\\Demo\\HelloAzureApp\\HelloAzureApp\\HelloAzureApp.csproj",
         "projectName": "HelloAzureApp",
-        "projectPath": "C:\\Demo\\HelloAzureApp\\HelloAzureApp\\HelloAzureApp.csproj",
+        "projectPath": "c:\\Demo\\HelloAzureApp\\HelloAzureApp\\HelloAzureApp.csproj",
         "packagesPath": "C:\\Users\\IC016209\\.nuget\\packages\\",
-        "outputPath": "C:\\Demo\\HelloAzureApp\\HelloAzureApp\\obj\\",
+        "outputPath": "c:\\Demo\\HelloAzureApp\\HelloAzureApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
